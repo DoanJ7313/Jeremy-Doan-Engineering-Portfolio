@@ -1,7 +1,7 @@
 # Jeremy Doan Engineering Portfolio
 
 ## 2022
-_Pokeball Launcher Structure:_
+**_Pokeball Launcher Structure: _**
 	This project was the final project of my Graphical Communication for Engineering Design course. The goal was to design a structure to launch a Pokeball (bean bag) onto target platforms.  During this project, I worked in a team with three other people. Each member was designated a role: project manager (1), manufacturing specialist (2), and CAD specialist (1). My role was the project manager, and my responsibilities were to ensure that all deadlines were met as well as distributing tasks among the team. All members had to design their own parts using Solidworks and AutoCAD. A final presentation was delivered and the structure was tested. Unfortunately, I do not have access to the testing videos. 
 
 ## 2023
