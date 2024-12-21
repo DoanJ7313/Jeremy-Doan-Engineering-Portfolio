@@ -5,7 +5,7 @@ _Pokeball Launcher Structure:_
 	This project was the final project of my Graphical Communication for Engineering Design course. The goal was to design a structure to launch a Pokeball (bean bag) onto target platforms.  During this project, I worked in a team with three other people. Each member was designated a role: project manager (1), manufacturing specialist (2), and CAD specialist (1). My role was the project manager, and my responsibilities were to ensure that all deadlines were met as well as distributing tasks among the team. All members had to design their own parts using Solidworks and AutoCAD. A final presentation was delivered and the structure was tested. Unfortunately, I do not have access to the testing videos. 
 
 ## 2023
-_Coca-Cola Can Reinforcement:_
+### Coca-Cola Can Reinforcement:
 	This project was the final project of my Structural Materials course. The goal of this project was to reinforce a soda can so that it could resist as much compressive force as possible. My design went through two iterations. My first design was very inefficient and actually helped increase the buckling effects of the compressive force instead of resisting it. My second design used fewer materials and provided far more effective compressive support. It turned out that my second design closely resembled stiffened panels used in aircraft, hence increased performance under compressive loads.
 
 ## 2024
