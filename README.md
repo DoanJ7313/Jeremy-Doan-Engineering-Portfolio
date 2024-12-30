@@ -41,4 +41,4 @@ This project was a collaboration with my fellow peers in my Composite Structures
 	
 _Super Resolution GAN (SRGAN) for Grayscale Images:_
 
-This project is currently a work in progress. I am working with a grayscale sandstone microstructure image dataset. For a Super Resolution GAN, the goal is to train the model to produce a high-resolution set of images using both low-resolution and high-resolution. The main challenge I am facing is to get the model to properly extract features from the training set to produce realistic images.
+**This project is currently a work in progress.** I am working with a grayscale sandstone microstructure image dataset. For a Super Resolution GAN, the goal is to train the model to produce a high-resolution set of images using both low-resolution and high-resolution. The main challenge I am facing is to get the model to properly extract features from the training set to produce realistic images.
