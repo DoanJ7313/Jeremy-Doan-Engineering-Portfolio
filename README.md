@@ -38,7 +38,9 @@ This project expanded upon the GAN project under Professor Semnani. The cGAN mod
 _Composite Truss:_
 
 This project was a collaboration with my fellow peers in my Composite Structures course. A truss was made from carbon/epoxy composites. Each truss member consisted of 4 parts that were split among two subgroups for manufacturing. Each subgroup, which consisted of 2-3 teammates, was responsible for manufacturing a C-channel using a wet layup and two connector pieces that were compression-molded with chopped carbon fibers and epoxy resin. The parts were bonded with the partnering subgroup's parts to form the complete truss member, which were sized based on the orientation (horizontal, vertical, and diagonal). The members made by each group were assembled into a truss. I was in charge of managing the scheduling of my subgroup's manufacturing, as well as molding the member connectors myself. During testing, the truss failed at 240 lbf at one of its connectors due to inadequate adhesive bonding. 
-	
+
+## 2025
+
 _Super Resolution GAN (SRGAN) for Grayscale Images:_
 
 **This project is currently a work in progress.** I am working with a grayscale sandstone microstructure image dataset. For a Super Resolution GAN, the goal is to train the model to produce a high-resolution set of images using both low-resolution and high-resolution. The main challenge I am facing is to get the model to properly extract features from the training set to produce realistic images.
